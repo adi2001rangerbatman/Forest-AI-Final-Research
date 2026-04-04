@@ -1,0 +1,1 @@
+"""Alert-related data models."""

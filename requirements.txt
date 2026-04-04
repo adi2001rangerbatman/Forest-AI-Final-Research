@@ -1,0 +1,8 @@
+fastapi
+flask
+uvicorn
+scikit-learn
+geopandas
+pandas
+numpy
+pyyaml
